@@ -3,7 +3,7 @@
 <!--
 **Alexis1476/Alexis1476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img height=60 src="https://user-images.githubusercontent.com/86573684/170055165-911d1eee-4a3a-4c79-87d5-5d53d013ac04.svg"/>
+<img src="https://user-images.githubusercontent.com/86573684/170055165-911d1eee-4a3a-4c79-87d5-5d53d013ac04.svg"/>
 
 Here are some ideas to get you started:
 
