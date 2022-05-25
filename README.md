@@ -1,6 +1,6 @@
 <h1 align="center">Hey, i'm Alexis</h1>
 
-### I am currently learning :
+### I'm currently learning :
 
 <div>
     <img height=40 src="./imgs/php.svg"/>
