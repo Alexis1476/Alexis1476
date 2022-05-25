@@ -1,3 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hey, i'm Alexis</h1>
 
-<img height=50 src="https://user-images.githubusercontent.com/86573684/170055165-911d1eee-4a3a-4c79-87d5-5d53d013ac04.svg"/>
+### I am currently learning :
+
+<div>
+    <img height=40 src="./imgs/php.svg"/>
+    <img height=40 src="./imgs/html.svg"/>
+    <img height=40 src="./imgs/css.svg"/>
+    <img height=40 src="./imgs/sql.svg"/>
+    <img height=40 src="./imgs/cSharp.svg"/>
+    <img height=40 src="./imgs/git.svg"/>
+    <img height=40 src="./imgs/laravel.svg"/>
+</div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
