@@ -5,7 +5,7 @@
 </h1><br>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only) -->
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 <h3>
     <ul>
@@ -25,7 +25,7 @@
     <img height=40 src="./imgs/cSharp.svg"/>
     <img height=40 src="./imgs/git.svg"/>
     <img height=40 src="./imgs/laravel.svg"/>
-</div>
-<img align="right" height=200 src="./imgs/programming.gif"/>
+</div><br>
+<img align="center" height=200 src="./imgs/programming.gif"/>
 
 
