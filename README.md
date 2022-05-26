@@ -17,7 +17,7 @@
 </h3><br><br>
 
 <div>
-    <img align="left" width=40% src="./imgs/programming.gif"/>
+    <img style="border-radius:15px" align="left" width=40% src="./imgs/programming.gif"/>
     <div>
         <h2>I'm currently learning :</h2>
         <img height=40 src="./imgs/php.svg"/>
