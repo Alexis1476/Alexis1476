@@ -5,7 +5,7 @@
 </h1><br>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only) -->
 
 <h3>
     <ul>
@@ -14,18 +14,19 @@
         <li><i>✉️ How to reach me -</i></li>
         <li><i>💻 Another thing</i></li>
     </ul>
-</h3><br>
-
-# I'm currently learning :
+</h3><br><br>
 
 <div>
-    <img height=40 src="./imgs/php.svg"/>
-    <img height=40 src="./imgs/html.svg"/>
-    <img height=40 src="./imgs/css.svg"/>
-    <img height=40 src="./imgs/sql.svg"/>
-    <img height=40 src="./imgs/cSharp.svg"/>
-    <img height=40 src="./imgs/git.svg"/>
-    <img height=40 src="./imgs/laravel.svg"/>
+    <img align="left" width=40% src="./imgs/programming.gif"/>
+    <div align="right">
+        <h2>I'm currently learning: </h2>
+        <img height=40 src="./imgs/php.svg"/>
+        <img height=40 src="./imgs/html.svg"/>
+        <img height=40 src="./imgs/css.svg"/>
+        <img height=40 src="./imgs/sql.svg"/>
+        <img height=40 src="./imgs/cSharp.svg"/>
+        <img height=40 src="./imgs/git.svg"/>
+        <img height=40 src="./imgs/laravel.svg"/>
+    </div>
 </div>
-<br>
 
