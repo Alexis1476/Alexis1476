@@ -25,7 +25,7 @@
     <img height=40 src="./imgs/cSharp.svg"/>
     <img height=40 src="./imgs/git.svg"/>
     <img height=40 src="./imgs/laravel.svg"/>
-    <img align="right" height=200 src="./imgs/programming.gif"/>
 </div>
+<img align="right" height=200 src="./imgs/programming.gif"/>
 
 
