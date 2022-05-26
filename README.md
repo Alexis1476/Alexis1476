@@ -26,6 +26,8 @@
     <img height=40 src="./imgs/git.svg"/>
     <img height=40 src="./imgs/laravel.svg"/>
 </div><br>
-<img align="center" height=200 src="./imgs/programming.gif"/>
+<div align="center">
+    <img height=200 src="./imgs/programming.gif"/>
+</div>
 
 
