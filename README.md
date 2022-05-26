@@ -2,7 +2,7 @@
     <samp>
     &gt; Hey There!, I'm Alexis Rojas</b>
     </samp>
-</h1>
+</h1><br>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=github_dark&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
