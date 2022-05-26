@@ -16,8 +16,8 @@
     </ul>
 </h3><br><br>
 
+<h2>I'm currently learning :</h2>
 <div>
-    <h2>I'm currently learning :</h2>
     <img height=40 src="./imgs/php.svg"/>
     <img height=40 src="./imgs/html.svg"/>
     <img height=40 src="./imgs/css.svg"/>
