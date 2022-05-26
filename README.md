@@ -17,16 +17,15 @@
 </h3><br><br>
 
 <div>
-    <img align="right" width=40% src="./imgs/programming.gif"/>
-    <div>
-        <h2>I'm currently learning :</h2>
-        <img height=40 src="./imgs/php.svg"/>
-        <img height=40 src="./imgs/html.svg"/>
-        <img height=40 src="./imgs/css.svg"/>
-        <img height=40 src="./imgs/sql.svg"/>
-        <img height=40 src="./imgs/cSharp.svg"/>
-        <img height=40 src="./imgs/git.svg"/>
-        <img height=40 src="./imgs/laravel.svg"/>
-    </div>
+    <h2>I'm currently learning :</h2>
+    <img height=40 src="./imgs/php.svg"/>
+    <img height=40 src="./imgs/html.svg"/>
+    <img height=40 src="./imgs/css.svg"/>
+    <img height=40 src="./imgs/sql.svg"/>
+    <img height=40 src="./imgs/cSharp.svg"/>
+    <img height=40 src="./imgs/git.svg"/>
+    <img height=40 src="./imgs/laravel.svg"/>
+    <img align="right" height=200 src="./imgs/programming.gif"/>
 </div>
+
 
