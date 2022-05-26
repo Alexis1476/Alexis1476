@@ -18,8 +18,8 @@
 
 <div>
     <img align="left" width=40% src="./imgs/programming.gif"/>
-    <div align="right">
-        <p><b>I'm currently learning: </b><p>
+    <div>
+        <h2>I'm currently learning :</h2>
         <img height=40 src="./imgs/php.svg"/>
         <img height=40 src="./imgs/html.svg"/>
         <img height=40 src="./imgs/css.svg"/>
