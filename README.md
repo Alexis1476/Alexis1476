@@ -1,6 +1,20 @@
-<h1 align="center">Hey, i'm Alexis</h1>
+<h1 align="center">
+    <samp>
+    &gt; Hey There!, I'm Alexis Rojas</b>
+    </samp>
+</h1>
 
-### I'm currently learning :
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=github_dark&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>
+
+-   ***I ❤️ web development***
+-   ***I'm a passionate student***
+-   ***How to reach me***
+
+</h3>
+
+# I'm currently learning :
 
 <div>
     <img height=40 src="./imgs/php.svg"/>
@@ -12,6 +26,4 @@
     <img height=40 src="./imgs/laravel.svg"/>
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
