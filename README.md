@@ -16,8 +16,9 @@
     </ul>
 </h3><br><br>
 
+
 <h2>I'm currently learning :</h2>
-<div>
+<div align="center">
     <img height=40 src="./imgs/php.svg"/>
     <img height=40 src="./imgs/html.svg"/>
     <img height=40 src="./imgs/css.svg"/>
@@ -25,6 +26,7 @@
     <img height=40 src="./imgs/cSharp.svg"/>
     <img height=40 src="./imgs/git.svg"/>
     <img height=40 src="./imgs/laravel.svg"/>
+    <img height=40 src="./imgs/tailwind.svg"/>
 </div><br>
 <div align="center">
     <img height=200 src="./imgs/programming.gif"/>
