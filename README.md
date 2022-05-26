@@ -14,7 +14,7 @@
         <li><i>How to reach me -</i></li>
         <li><i>Another thing</i></li>
     </ul>
-</h3>
+</h3><br>
 
 # I'm currently learning :
 
