@@ -8,11 +8,12 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 <h3>
-
--   ***I ❤️ web development***
--   ***I'm a passionate student***
--   ***How to reach me***
-
+    <ul>
+        <li><i>I ❤️ web development</i></li>
+        <li><i>I'm a passionate student</i></li>
+        <li><i>How to reach me -</i></li>
+        <li><i>Another thing</i></li>
+    </ul>
 </h3>
 
 # I'm currently learning :
