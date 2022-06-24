@@ -6,6 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+![](https://komarev.com/ghpvc/?username=Alexis1476&label=Profile+Views&style=for-the-badge)
 
 <h3>
     <ul>
