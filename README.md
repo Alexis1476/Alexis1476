@@ -12,7 +12,7 @@
     <ul>
         <li><i>I ❤️ web development</i></li>
         <li><i>📕 I'm a passionate student</i></li>
-        <li><i>✉️ How to reach me -</i></li>
+        <li><i>✉️ How to reach me halexisr20@hotmail.com</i></li>
         <li><i>💻 Another thing</i></li>
     </ul>
 </h3><br><br>
