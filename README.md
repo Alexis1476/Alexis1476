@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%3E+Hey+There!%2C+I'm+Alexis+Rojas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%3E+Hey+There!%2C+I'm+Alexis+Rojas)](https://git.io/typing-svg)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1476&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
