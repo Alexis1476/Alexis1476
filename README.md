@@ -18,7 +18,7 @@
 </h3><br><br>
 
 
-<h2>I'm currently learning :</h2>
+<h2>Technologies & Tools :</h2>
 <div align="center">
     <img height=40 src="./imgs/php.svg"/>
     <img height=40 src="./imgs/html.svg"/>
